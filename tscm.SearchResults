@@ -1,0 +1,2 @@
+---- m_ucManualSts m_ucManual Æ¥Åä (1 ÔÚ 1 ÎÄ¼þ ) ----
+Manual.cpp:	ACE_DEBUG((LM_DEBUG,"%d:%d m_ucManualSts m_ucManual \n",m_ucManualSts,m_ucManual));
